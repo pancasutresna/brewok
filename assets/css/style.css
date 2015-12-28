@@ -25,6 +25,8 @@ p { line-height: 2rem; }
 * --------------------------------------- */
 h1 { font-size: 5em; font-family: arial, helvetica; color: white; margin: 0; padding: 0; }
 
+.brand-logo { font-weight: 100; }
+
 /* Fixed header and footer. --------------------------------------- */
 #footer { position: fixed; height: 50px; display: block; width: 100%; background: #333333; z-index: 9; text-align: center; color: white; padding: 15px 0 5px 0; }
 
